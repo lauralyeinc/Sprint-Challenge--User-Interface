@@ -66,15 +66,15 @@ p {
     line-height: 1.4;
 }
 
-.containerabout-page {
+.containerabout-page{
     width: 800px;
-		margin: 0 auto;
-		display: inline-flex;
+		margin: 20px;
+		display: inline-block; 
 }
 
 header{
     width: 800px;
-    height: 300px; 
+    height: 400px; 
 }
 
 nav a{
@@ -99,5 +99,62 @@ a :last-child{
 	height: 150px;
 	margin: 10px;
 }
+
+.middlecontent{
+	width: 800px;
+}
+
+.box1box2{
+	width: 800px;
+	height: 500px;
+}
+
+.strategy{
+	width: 40%;
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.HowWeWork{
+	width: 40%;
+	display: inline-block;
+	margin-left: 30px;
+
+}
+
+.box3box4{
+	width: 800px;
+	height: 500px;
+}
+
+.aboutoffice{
+	width: 40%;
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.collaborations{
+	width: 40%;
+	display: inline-block;
+	margin-left: 30px;
+
+	footer {
+		width: 800px;
+		background-color: black;
+}
+
+footer nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+		font-size: 14px;
+}
+
+footer nav a {
+		text-decoration: none;
+}
+
 
 
