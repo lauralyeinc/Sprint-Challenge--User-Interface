@@ -170,6 +170,7 @@ button{
 	font-style: bold;
 	margin: 15px;
 	padding: 10px;
+	border-radius: 12px;
 }
 
 .bottomcontent{
