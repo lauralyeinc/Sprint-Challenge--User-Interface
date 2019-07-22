@@ -71,6 +71,19 @@ p {
     margin: 0 auto;
 }
 
+header{
+    width: 800px;
+    height: 100px;
+    display: flex-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    display:flexbox;
+    justify-content: 
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
