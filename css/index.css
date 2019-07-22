@@ -73,8 +73,7 @@ p {
 
 header{
     width: 800px;
-    height: 300px;
-    margin-top: 20px; 
+    height: 300px; 
 }
 
 nav a{
@@ -89,7 +88,7 @@ a :first-child{
 }
 
 a{
-    margin: 32px;
+   padding: 32px;
 }
  a :last-child{
      margin: 0;
@@ -97,7 +96,7 @@ a{
 .img-header{
     width: 800px;
     height: 150px;
-    margin: 20px;
+    margin: 10px;
 }
 
 .top-content {
