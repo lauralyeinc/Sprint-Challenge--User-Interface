@@ -73,17 +73,27 @@ p {
 
 header{
     width: 800px;
-    height: 250px;
+    height: 300px;
+    margin-top: 20px; 
 }
 
 nav a{
     text-decoration: none;
     color: black;
-    text-align: center;
     display: inline-block;
-
+    vertical-align: center;
 }
 
+a :first-child{
+    margin: 0;
+}
+
+a{
+    margin: 32px;
+}
+ a :last-child{
+     margin: 0;
+ }
 .img-header{
     width: 800px;
     height: 150px;
